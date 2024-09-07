@@ -60,13 +60,6 @@ def aclass():
         print("\nYour account got locked, recover it kindly and re run the script.")
         exit(1)
 
-  
-    
-
-
-
-
-
 def poct(comment):
 
     browser.select_form(nr = 0)
@@ -82,7 +75,7 @@ def poct(comment):
 logo = ("""\033[97;1m
     
 \033[97;1m
-▄ ▅ ▆ ▇ █      ☠️PIYUSH TRICKER ☠️      █ ▇ ▆ ▅ ▄
+▄ ▅ ▆ ▇ █    ☠️ PIYUSH TRICKER ☠️      █ ▇ ▆ ▅ ▄
 
 \033[1;31m██████╗ ██╗██╗   ██╗██╗   ██╗███████╗██╗  ██╗
 \033[1;32m██╔══██╗██║╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║
@@ -92,19 +85,12 @@ logo = ("""\033[97;1m
 \033[1;36m╚═╝     ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝
 
                                                                  
-
-                                      
-                                           
 x==== 🥀 Piyush Tricker here(⁠•⁠‿⁠•⁠) ====x
 
-\033[94;1m[[ AUTHOR NAME ]]       PIYUSH TRICKER 
+\033[94;1m[[ AUTHOR NAME ]]    PIYUSH TRICKER 
 
-\033[91;1m[[ TOOL ]]                POST FIGHT WEAPON
+\033[91;1m[[ TOOL ]]    🚩    POST FIGHT WEAPON
                                                          
-
-    
-    
-    
     
 \033[1;93m""")
 os.system('clear')
